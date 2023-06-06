@@ -3,6 +3,7 @@
 A simple chat application built with React, SQLLite, Node, Socket.IO, and Express. 
 This application provides a proof-of-concept for building a chat application similar to WhatsApp.
 
+![Screenshot](https://i.imgur.com/F2ZK8XL.jpg)
 
 ## Installation
 
